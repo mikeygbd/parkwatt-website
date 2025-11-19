@@ -6,7 +6,7 @@ export default function Home() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <img
-                src="/ParkwattLogoSVG3.svg"
+                src="/ParkWattLogoSVG3.svg"
                 alt="ParkWatt"
                 className="h-10 w-auto"
               />
@@ -385,7 +385,7 @@ export default function Home() {
           <div className="grid md:grid-cols-4 gap-8">
             <div>
               <img
-                src="/ParkwattLogoSVG3.svg"
+                src="/ParkWattLogoSVG3.svg"
                 alt="ParkWatt"
                 className="h-8 mb-4"
               />
