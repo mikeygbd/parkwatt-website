@@ -112,7 +112,7 @@ export default function Home() {
           </p>
           <div className="flex flex-col md:flex-row gap-12 items-center">
             {/* Features on Left */}
-            <div className="flex-1 flex flex-col justify-between h-full min-h-[400px] md:min-h-[450px]">
+            <div className="flex-1 space-y-6">
               <div className="flex items-start gap-4">
                 <div className="w-8 h-8 bg-[#26C079] rounded-full flex items-center justify-center flex-shrink-0 mt-1">
                   <svg
@@ -161,6 +161,56 @@ export default function Home() {
                   </h3>
                   <p className="text-gray-400">
                     Monitor tire pressure, mileage, and battery capacity
+                  </p>
+                </div>
+              </div>
+              <div className="flex items-start gap-4">
+                <div className="w-8 h-8 bg-[#26C079] rounded-full flex items-center justify-center flex-shrink-0 mt-1">
+                  <svg
+                    className="w-5 h-5 text-white"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M5 13l4 4L19 7"
+                    />
+                  </svg>
+                </div>
+                <div>
+                  <h3 className="text-xl font-semibold text-white mb-2">
+                    Remote Lock & Unlock
+                  </h3>
+                  <p className="text-gray-400">
+                    Control your vehicle's locks from anywhere with one tap
+                  </p>
+                </div>
+              </div>
+              <div className="flex items-start gap-4">
+                <div className="w-8 h-8 bg-[#26C079] rounded-full flex items-center justify-center flex-shrink-0 mt-1">
+                  <svg
+                    className="w-5 h-5 text-white"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M5 13l4 4L19 7"
+                    />
+                  </svg>
+                </div>
+                <div>
+                  <h3 className="text-xl font-semibold text-white mb-2">
+                    Location Tracking
+                  </h3>
+                  <p className="text-gray-400">
+                    Always know where your vehicle is parked with GPS tracking
                   </p>
                 </div>
               </div>
