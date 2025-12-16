@@ -447,6 +447,11 @@ export default function Home() {
                   </a>
                 </li>
                 <li>
+                  <a href="/host-agreement" className="hover:text-white">
+                    Host Agreement
+                  </a>
+                </li>
+                <li>
                   <a href="#" className="hover:text-white">
                     Safety
                   </a>
