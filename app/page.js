@@ -68,7 +68,7 @@ export default function Home() {
                   </div>
                 </a>
                 <a
-                  href="#"
+                  href="/android-download"
                   className="inline-flex items-center justify-center px-6 py-3 bg-black text-white rounded-lg hover:bg-gray-900 transition-colors"
                 >
                   <svg
