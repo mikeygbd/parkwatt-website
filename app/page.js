@@ -14,7 +14,7 @@ export default function Home() {
 
             <div className="flex space-x-4">
               <a
-                href="#download"
+                href="https://apps.apple.com/us/app/parkwatt/id6756674822"
                 className="px-6 py-2 bg-[#26C079] text-white rounded-lg hover:bg-[#20a364] font-medium"
               >
                 Download App
