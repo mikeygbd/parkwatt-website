@@ -52,7 +52,7 @@ export default function Home() {
                 className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start"
               >
                 <a
-                  href="#"
+                  href="https://apps.apple.com/us/app/parkwatt/id6756674822"
                   className="inline-flex items-center justify-center px-6 py-3 bg-black text-white rounded-lg hover:bg-gray-900 transition-colors"
                 >
                   <svg
@@ -400,7 +400,7 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="#"
+              href="https://apps.apple.com/us/app/parkwatt/id6756674822"
               className="inline-flex items-center justify-center px-8 py-4 bg-white text-[#26C079] rounded-lg hover:bg-gray-100 transition-colors font-semibold"
             >
               <svg
